@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>tex_64x64.png</file>
+        <file>box.mtl</file>
+        <file>box.obj</file>
+    </qresource>
+</RCC>
